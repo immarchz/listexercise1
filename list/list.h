@@ -1,5 +1,6 @@
 #ifndef LIST
 #define LIST
+#pragma once
 
 class Node {
 public:
